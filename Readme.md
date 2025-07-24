@@ -230,7 +230,7 @@ Open a Pull Request – we’ll review & merge!
 ---
 ### Authors   
 -[Mahdi Alinejad](https://github.com/soilorian) 
--[Alireza Mirrokni](https://github.com/alirezamirrokni)  
+-[Alireza Mirrokni](https://github.com/alirezamirrokni) 
 -[Arshia Izadyari](https://github.com/arshiaizd) 
 
 ---
