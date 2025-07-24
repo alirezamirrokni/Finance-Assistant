@@ -228,10 +228,11 @@ Commit with clear messages.
 Open a Pull Request – we’ll review & merge!
 
 ---
-## Authors        
+### Authors   
+-[Mahdi Alinejad](https://github.com/soilorian) 
 -[Alireza Mirrokni](https://github.com/alirezamirrokni)  
--[Arshia Izadyari](https://github.com/arshiaizd)
--[Alireza Mirrokni](https://github.com/alirezamirrokni) 
+-[Arshia Izadyari](https://github.com/arshiaizd) 
+
 ---
 
 ### 📄 License
